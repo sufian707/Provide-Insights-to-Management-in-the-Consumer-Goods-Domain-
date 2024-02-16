@@ -3,7 +3,7 @@
 Exploring Atliq Hardware's inner workings, I aimed to provide actionable insights using MySQL, PowerBI.
 
 𝗨𝗻𝗰𝗼𝘃𝗲𝗿𝗶𝗻𝗴 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀:
-Using advanced techniques in MySQL, PowerBI, and Canva, I uncovered valuable data insights and presented them creatively.
+Using advanced techniques in MySQL, PowerBI, I uncovered valuable data insights and presented them creatively.
 
 𝗘𝗺𝗽𝗼𝘄𝗲𝗿𝗶𝗻𝗴 𝗦𝗮𝗹𝗲𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
 By highlighting key metrics like Gross Profit, I proposed innovative strategies to boost production rates and ensure sustainable growth.
