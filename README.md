@@ -1,4 +1,4 @@
-# SQL_project_codebasics
+# AtliQ Business Performance and Data Insights
 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗩𝗮𝘀𝘁 𝗟𝗮𝗻𝗱𝘀𝗰𝗮𝗽𝗲:
 Exploring Atliq Hardware's inner workings, I aimed to provide actionable insights using MySQL.
 
