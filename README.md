@@ -1,4 +1,4 @@
-Consumer-Goods Insights
+**Consumer-Goods Insights**
 
 Problem Statement : Atliq Hardwares company, stands as a frontrunner in computer hardware production within India and boasts a widespread presence in various other countries. Despite its successful track record, the management has identified a crucial gap in obtaining timely and insightful data to facilitate informed decision-making. 
 
