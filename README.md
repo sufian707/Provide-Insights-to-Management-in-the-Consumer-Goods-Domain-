@@ -1,9 +1,19 @@
-# AtliQ Business Performance and Data Insights
-𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝘁𝗵𝗲 𝗩𝗮𝘀𝘁 𝗟𝗮𝗻𝗱𝘀𝗰𝗮𝗽𝗲:
-Exploring Atliq Hardware's inner workings, I aimed to provide actionable insights using MySQL.
+Consumer-Goods Insights
 
-𝗨𝗻𝗰𝗼𝘃𝗲𝗿𝗶𝗻𝗴 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀:
-Using advanced techniques in MySQL, I uncovered valuable data insights and presented them creatively.
+Problem Statement : Atliq Hardwares company, stands as a frontrunner in computer hardware production within India and boasts a widespread presence in various other countries. Despite its successful track record, the management has identified a crucial gap in obtaining timely and insightful data to facilitate informed decision-making. 
 
-𝗘𝗺𝗽𝗼𝘄𝗲𝗿𝗶𝗻𝗴 𝗦𝗮𝗹𝗲𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
-By highlighting key metrics like Gross Profit, I proposed innovative strategies to boost production rates and ensure sustainable growth.
+Domain    : Consumer Goods Function:
+Tools Used: MySQL for SQL queries to retrieve an output 
+
+Task : As a Data Analyst  my task was: 
+1)Check ‘ad-hoc-requests.pdf’ and run a SQL queries to answer these requests and provide insights to the management team. 
+
+Learning : Using multiple joins, CTE's, Window Functions to retrieve the output equipped me with the strategic mindset required for data analysis.
+
+
+
+
+
+
+
+
