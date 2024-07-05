@@ -2,7 +2,7 @@
 
 Problem Statement : Atliq Hardwares company, stands as a frontrunner in computer hardware production within India and boasts a widespread presence in various other countries. Despite its successful track record, the management has identified a crucial gap in obtaining timely and insightful data to facilitate informed decision-making. 
 
-Domain    : Consumer Goods Function:
+Domain    : Consumer Goods Function
 Tools Used: MySQL for SQL queries to retrieve an output 
 
 Task : As a Data Analyst  my task was: 
